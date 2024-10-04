@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/potfoli-o/static/css/main.0916c99b.css",
-    "main.js": "/potfoli-o/static/js/main.b928266b.js",
+    "main.js": "/potfoli-o/static/js/main.48faa702.js",
     "static/media/self.png": "/potfoli-o/static/media/self.4654543c6124b88ab197.png",
     "index.html": "/potfoli-o/index.html",
     "main.0916c99b.css.map": "/potfoli-o/static/css/main.0916c99b.css.map",
-    "main.b928266b.js.map": "/potfoli-o/static/js/main.b928266b.js.map"
+    "main.48faa702.js.map": "/potfoli-o/static/js/main.48faa702.js.map"
   },
   "entrypoints": [
     "static/css/main.0916c99b.css",
-    "static/js/main.b928266b.js"
+    "static/js/main.48faa702.js"
   ]
 }
